@@ -1,4 +1,4 @@
-bimport java.util.Scanner;
+import java.util.Scanner;
 
 public class QuizGame {
 
@@ -63,4 +63,5 @@ public class QuizGame {
         }
         keyboard.close();
     }
+
 }
